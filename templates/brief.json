@@ -1,0 +1,45 @@
+{
+  "project": {
+    "name": "",
+    "goal": "",
+    "primary_cta": "",
+    "secondary_cta": "",
+    "stage": "",
+    "deadline": ""
+  },
+  "product": {
+    "what": "",
+    "category": "",
+    "oneliner": "",
+    "super_big_job": "",
+    "big_job": "",
+    "core_job": ""
+  },
+  "audiences": [
+    {
+      "segment": "",
+      "context": "",
+      "triggers": [],
+      "pains": [],
+      "gains": [],
+      "objections": []
+    }
+  ],
+  "value": {
+    "primary": "",
+    "proof": [],
+    "metrics": [],
+    "alternatives": []
+  },
+  "constraints": {
+    "tone": "",
+    "style": "",
+    "legal": [],
+    "do_not_say": []
+  },
+  "assets": {
+    "existing_materials": [],
+    "references": []
+  },
+  "notes": ""
+}

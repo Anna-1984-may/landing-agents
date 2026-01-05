@@ -1,0 +1,19 @@
+{
+  "style_guide": {
+    "mood": "",
+    "color": "",
+    "composition": "",
+    "do_not": []
+  },
+  "blocks": [
+    {
+      "id": "hero",
+      "goal": "",
+      "visual_context": "",
+      "image_type": "photo",
+      "prompt": "",
+      "negative_prompt": "",
+      "alt_text": ""
+    }
+  ]
+}

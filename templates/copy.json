@@ -1,0 +1,17 @@
+{
+  "blocks": [
+    {
+      "id": "hero",
+      "h1": "",
+      "subhead": "",
+      "body": [""],
+      "cta": "",
+      "microcopy": ""
+    }
+  ],
+  "microcopy": {
+    "form_labels": [],
+    "form_help": [],
+    "errors": []
+  }
+}

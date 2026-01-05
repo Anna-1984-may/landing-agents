@@ -1,0 +1,17 @@
+{
+  "value_props": [
+    {
+      "id": "vp-1",
+      "statement": "",
+      "because": "",
+      "evidence": "",
+      "metric": ""
+    }
+  ],
+  "anti_abstract": [
+    {
+      "abstract": "",
+      "specific": ""
+    }
+  ]
+}

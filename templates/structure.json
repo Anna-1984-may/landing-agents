@@ -1,0 +1,18 @@
+{
+  "page": {
+    "goal": "",
+    "primary_cta": "",
+    "secondary_cta": ""
+  },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "goal": "",
+      "message": "",
+      "inputs": ["oneliner", "value_props"],
+      "cta": "",
+      "visual_context": ""
+    }
+  ]
+}

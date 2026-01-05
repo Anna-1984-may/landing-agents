@@ -1,0 +1,22 @@
+{
+  "super_big_job": "",
+  "big_job": "",
+  "core_jobs": [
+    {
+      "id": "core-1",
+      "job": "",
+      "value": "",
+      "evidence": "",
+      "micro_jobs": []
+    }
+  ],
+  "segments": [
+    {
+      "segment": "",
+      "core_jobs": ["core-1"],
+      "context": "",
+      "triggers": [],
+      "barriers": []
+    }
+  ]
+}
